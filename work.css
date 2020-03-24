@@ -1,0 +1,736 @@
+.home{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.home2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.home:hover{
+opacity: 0;
+}
+
+.about{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.about2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.about:hover{
+opacity: 0;
+}
+
+.work{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.work2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.work:hover{
+opacity: 0;
+}
+
+
+.contact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.contact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.contact:hover{
+opacity: 0;
+}
+
+.name{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.bline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+
+.bline2{
+  position: absolute;
+  top:13vh;
+  left:25vh;
+}
+
+.title{
+  font-size: 100px;
+  font-family: input-mono, monospace;
+color: blue;
+font-weight: 800;
+font-style: normal;
+position: absolute;
+top:4.7vh;
+left:23.5vh;
+}
+
+.sub{
+  font-family: input-mono, monospace;
+  font-weight: 100;
+  font-style: normal;
+color: blue;
+transform: rotate(270deg);
+position:absolute;
+top:35vh;
+left:-13vh;
+
+}
+
+.bline4{
+  position:absolute;
+  top:20vh;
+  left:27vh;
+}
+
+.bline5{
+  position:absolute;
+  top:32vh;
+  left:27vh;
+}
+
+.bline6{
+  position:absolute;
+  top:44vh;
+  left:27vh;
+}
+
+.bline7{
+  position:absolute;
+  top:56vh;
+  left:27vh;
+}
+
+.bline8{
+  position:absolute;
+  top:68vh;
+  left:27vh;
+}
+
+.bline9{
+  position:absolute;
+  top:80vh;
+  left:27vh;
+}
+
+.bline10{
+  position:absolute;
+  top:92vh;
+  left:27vh;
+}
+
+.bline11{
+  position:absolute;
+  top:104vh;
+  left:27vh;
+}
+
+.bline12{
+  position:absolute;
+  top:116vh;
+  left:27vh;
+}
+
+
+.p1c{
+  position: absolute;
+  top:24vh;
+  left:27vh;
+  background-color: white;
+  height:63px;
+  width:1210px;
+}
+.p1{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: blue;
+
+}
+
+.p1c:hover{
+  position: absolute;
+  top:24vh;
+  left:27vh;
+  background-color: blue;
+  height:63px;
+  width:1210px;
+}
+.p1:hover{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: white;
+
+}
+
+.p2c{
+  position: absolute;
+  top:36vh;
+  left:27vh;
+  background-color: white;
+  height:63px;
+  width:1210px;
+}
+.p2{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: blue;
+
+}
+
+.p2c:hover{
+  position: absolute;
+  top:36vh;
+  left:27vh;
+  background-color: blue;
+  height:63px;
+  width:1210px;
+}
+.p2:hover{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: white;
+
+}
+
+
+.p3c{
+  position: absolute;
+  top:48vh;
+  left:27vh;
+  background-color: white;
+  height:63px;
+  width:1210px;
+}
+.p3{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: blue;
+
+}
+
+.p3c:hover{
+  position: absolute;
+  top:48vh;
+  left:27vh;
+  background-color: blue;
+  height:63px;
+  width:1210px;
+}
+.p3:hover{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+.phome{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.phome2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.phome:hover{
+opacity: 0;
+}
+
+.pabout{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.pabout2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.pabout:hover{
+opacity: 0;
+}
+
+.pwork{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.pwork2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.pwork:hover{
+opacity: 0;
+}
+
+
+.pcontact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.pcontact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.pcontact:hover{
+opacity: 0;
+}
+
+.pname{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.pline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+
+.pline2{
+  position: absolute;
+  top:13vh;
+  left:25vh;
+}
+
+.pline4{
+  position:absolute;
+  top:20vh;
+  left:27vh;
+}
+
+.pline5{
+  position:absolute;
+  top:32vh;
+  left:27vh;
+}
+
+.pline6{
+  position:absolute;
+  top:44vh;
+  left:27vh;
+}
+
+.pline7{
+  position:absolute;
+  top:56vh;
+  left:27vh;
+}
+
+.pline8{
+  position:absolute;
+  top:68vh;
+  left:27vh;
+}
+
+.pline9{
+  position:absolute;
+  top:80vh;
+  left:27vh;
+}
+
+.pline10{
+  position:absolute;
+  top:92vh;
+  left:27vh;
+}
+
+.pline11{
+  position:absolute;
+  top:104vh;
+  left:27vh;
+}
+
+.pline12{
+  position:absolute;
+  top:116vh;
+  left:27vh;
+}
+
+
+
+
+.ohome{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.ohome2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.ohome:hover{
+opacity: 0;
+}
+
+.oabout{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.oabout2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.oabout:hover{
+opacity: 0;
+}
+
+.owork{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.owork2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.owork:hover{
+opacity: 0;
+}
+
+
+.ocontact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.ocontact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.ocontact:hover{
+opacity: 0;
+}
+
+.oname{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.oline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+.oline2{
+  position: absolute;
+  top:13vh;
+  left:25vh;
+}
+.oline4{
+  position:absolute;
+  top:20vh;
+  left:27vh;
+}
+
+.oline5{
+  position:absolute;
+  top:32vh;
+  left:27vh;
+}
+
+.oline6{
+  position:absolute;
+  top:44vh;
+  left:27vh;
+}
+
+.oline7{
+  position:absolute;
+  top:56vh;
+  left:27vh;
+}
+
+.oline8{
+  position:absolute;
+  top:68vh;
+  left:27vh;
+}
+
+.oline9{
+  position:absolute;
+  top:80vh;
+  left:27vh;
+}
+
+.oline10{
+  position:absolute;
+  top:92vh;
+  left:27vh;
+}
+
+.oline11{
+  position:absolute;
+  top:104vh;
+  left:27vh;
+}
+
+.oline12{
+  position:absolute;
+  top:116vh;
+}
+
+
+
+.home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline,.title,.sub,.bline2,.bline4,.bline5,.bline6,.bline7,.bline8,.bline9,.bline10,.bline11,.bline12{
+  display:block;
+}
+.phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline,.pline2,.pline4,.pline5,.pline6,.pline7,.pline8,.pline9,.pline10,.pline11,.pline12{
+  display: none;
+}
+.ohome,.ohome2,.oabout,.oabout2,.owork,.owork2,.ocontact,.ocontact2,.oname,.oline,.oline2,.oline4,.oline5,.oline6,.oline7,.oline8,.oline9,.oline10,.oline11,.oline12{
+  display: none;
+}
+@media screen and (max-width: 1250px){
+  .home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline,.bline2,.bline4,.bline5,.bline6,.bline7,.bline8,.bline9,.bline10,.bline11,.bline12{
+    display:none;
+  }
+  .title,.sub,.phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline,.pline2,.pline4,.pline5,.pline6,.pline7,.pline8,.pline9,.pline10,.pline11,.pline12{
+    display: block;
+  }
+
+
+  .title{
+    font-size: 80px;
+    font-family: input-mono, monospace;
+  color: #ed1e79;
+  font-weight: 800;
+  font-style: normal;
+  position: absolute;
+  top:4.7vh;
+  left:23.5vh;
+  }
+
+  .sub{
+    font-family: input-mono, monospace;
+    font-weight: 100;
+    font-style: normal;
+  color: #ed1e79;
+  transform: rotate(270deg);
+  position:absolute;
+  top:40vh;
+  left:-13vh;
+
+  }
+  .p1{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #ed1e79;
+
+  }
+
+  .p1c:hover{
+    position: absolute;
+    top:24vh;
+    left:27vh;
+    background-color: #ed1e79;
+    height:63px;
+    width:1210px;
+  }
+
+  .p2{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #ed1e79;
+
+  }
+
+  .p2c:hover{
+    position: absolute;
+    top:36vh;
+    left:27vh;
+    background-color: #ed1e79;
+    height:63px;
+    width:1210px;
+  }
+  .p3{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #ed1e79;
+
+  }
+
+  .p3c:hover{
+    position: absolute;
+    top:48vh;
+    left:27vh;
+    background-color: #ed1e79;
+    height:63px;
+    width:1210px;
+  }
+
+}
+
+
+
+
+
+@media screen and (max-width: 950px){
+  .home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline,.bline2,.bline4,.bline5,.bline6,.bline7,.bline8,.bline9,.bline10,.bline11,.bline12{
+    display:none;
+  }
+  .title,.sub,.phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline,.pline2,.pline4,.pline5,.pline6,.pline7,.pline8,.pline9,.pline10,.pline11,.pline12{
+    display: none;
+  }
+  .title,.sub,.ohome,.ohome2,.oabout,.oabout2,.owork,.owork2,.ocontact,.ocontact2,.oname,.oline,.oline2,.oline4,.oline5,.oline6,.oline7,.oline8,.oline9,.oline10,.oline11,.oline12{
+    display: block;
+  }
+
+
+  .title{
+    font-size: 60px;
+    font-family: input-mono, monospace;
+  color: #f7931e;
+  font-weight: 800;
+  font-style: normal;
+  position: absolute;
+  top:4.7vh;
+  left:23.5vh;
+  }
+
+  .sub{
+    font-family: input-mono, monospace;
+    font-weight: 100;
+    font-style: normal;
+  color: #f7931e;
+  transform: rotate(270deg);
+  position:absolute;
+  top:45vh;
+  left:-13vh;
+
+  }
+  .p1{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #f7931e;
+
+  }
+
+  .p1c:hover{
+    position: absolute;
+    top:24vh;
+    left:27vh;
+    background-color: #f7931e;
+    height:63px;
+    width:1210px;
+  }
+
+  .p2{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #f7931e;
+
+  }
+
+  .p2c:hover{
+    position: absolute;
+    top:36vh;
+    left:27vh;
+    background-color: #f7931e;
+    height:63px;
+    width:1210px;
+  }
+  .p3{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #f7931e;
+
+  }
+
+  .p3c:hover{
+    position: absolute;
+    top:48vh;
+    left:27vh;
+    background-color: #f7931e;
+    height:63px;
+    width:1210px;
+  }
+
+}

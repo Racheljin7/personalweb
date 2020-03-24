@@ -1,0 +1,324 @@
+.home{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.home2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.home:hover{
+opacity: 0;
+}
+
+.about{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.about2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.about:hover{
+opacity: 0;
+}
+
+.work{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.work2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.work:hover{
+opacity: 0;
+}
+
+
+.contact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.contact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.contact:hover{
+opacity: 0;
+}
+
+.name{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.bline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+.bline3{
+  position: absolute;
+  top:9.8vh;
+  left:0vh;
+}
+
+
+
+
+.ohome{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.ohome2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.ohome:hover{
+opacity: 0;
+}
+
+.oabout{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.oabout2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.oabout:hover{
+opacity: 0;
+}
+
+.owork{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.owork2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.owork:hover{
+opacity: 0;
+}
+
+
+.ocontact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.ocontact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.ocontact:hover{
+opacity: 0;
+}
+
+.oname{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.oline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+.oline3{
+  position: absolute;
+  top:9.8vh;
+  left:0vh;
+}
+
+
+
+
+
+
+
+
+.phome{
+  position: absolute;
+  top:2.6vh;
+  left:10vh;
+}
+
+.phome2{
+  position: absolute;
+  top:2.8vh;
+  left:10vh;
+}
+
+.phome:hover{
+opacity: 0;
+}
+
+.pabout{
+  position: absolute;
+  top:2.6vh;
+  left:30vh;
+}
+
+.pabout2{
+  position: absolute;
+  top:2.8vh;
+  left:30vh;
+}
+
+.pabout:hover{
+opacity: 0;
+}
+
+.pwork{
+  position: absolute;
+  top:2.6vh;
+  left:50vh;
+}
+
+.pwork2{
+  position: absolute;
+  top:2.8vh;
+  left:50vh;
+}
+
+.pwork:hover{
+opacity: 0;
+}
+
+
+.pcontact{
+  position: absolute;
+  top:2.6vh;
+  left:70vh;
+}
+
+.pcontact2{
+  position: absolute;
+  top:2.8vh;
+  left:70vh;
+}
+
+.pcontact:hover{
+opacity: 0;
+}
+
+.pname{
+  position: absolute;
+  top:3vh;
+  left:105vh;
+}
+
+.pline{
+  position: absolute;
+  top:8vh;
+  left:1vh;
+}
+.pline3{
+  position: absolute;
+  top:9.8vh;
+  left:0vh;
+}
+
+.c{
+  font-size: 7px;
+  font-family: input-mono-compressed, monospace;
+  font-weight: 200;
+  font-style: normal;
+color: blue;
+position:absolute;
+top:50vh;
+left:80vh;
+}
+
+
+.home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline,.bline3{
+  display:block;
+}
+.ohome,.ohome2,.oabout,.oabout2,.owork,.owork2,.ocontact,.ocontact2,.oname,.oline,.oline3{
+  display:none;
+}
+.phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline,.pline3{
+  display: none;
+}
+
+
+@media screen and (max-width: 1250px){
+  .home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline{
+    display:none;
+  }
+  .ohome,.ohome2,.oabout,.oabout2,.owork,.owork2,.ocontact,.ocontact2,.oname,.oline,.oline3{
+    display:none;
+  }
+  .phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline,.pline3,.bline3{
+    display:block;
+
+  }
+  .c{
+    font-size: 7px;
+    font-family: input-mono-compressed, monospace;
+    font-weight: 200;
+    font-style: normal;
+  color: #ed1e79;
+  position:absolute;
+  top:50vh;
+  left:80vh;
+  }
+}
+
+
+@media screen and (max-width: 950px){
+  .home,.home2,.about,.about2,.work,.work2,.contact,.contact2,.name,.bline.{
+    display:none;
+  }
+  .ohome,.ohome2,.oabout,.oabout2,.owork,.owork2,.ocontact,.ocontact2,.oname,.oline,.oline3,.bline3,.pline3{
+    display:block;
+  }
+  .phome,.phome2,.pabout,.pabout2,.pwork,.pwork2,.pcontact,.pcontact2,.pname,.pline{
+    display:none;
+  }
+  .c{
+    font-size: 7px;
+    font-family: input-mono-compressed, monospace;
+    font-weight: 200;
+    font-style: normal;
+  color: #f7931e;
+  position:absolute;
+  top:50vh;
+  left:80vh;
+  }
+}
