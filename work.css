@@ -710,6 +710,44 @@ opacity: 0;
     width:1210px;
   }
 
+  .p4{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #ed1e79;
+
+  }
+
+  .p4c:hover{
+    position: absolute;
+    top:60vh;
+    left:27vh;
+    background-color: #ed1e79;
+    height:63px;
+    width:1210px;
+  }
+
+  .p5{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #ed1e79;
+
+  }
+
+  .p5c:hover{
+    position: absolute;
+    top:72vh;
+    left:27vh;
+    background-color: #ed1e79;
+    height:63px;
+    width:1210px;
+  }
+
+
+
 }
 
 
@@ -797,6 +835,42 @@ opacity: 0;
   .p3c:hover{
     position: absolute;
     top:48vh;
+    left:27vh;
+    background-color: #f7931e;
+    height:63px;
+    width:1210px;
+  }
+
+  .p4{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #f7931e;
+
+  }
+
+  .p4c:hover{
+    position: absolute;
+    top:60vh;
+    left:27vh;
+    background-color: #f7931e;
+    height:63px;
+    width:1210px;
+  }
+
+  .p5{
+    font-family: input-mono, monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  color: #f7931e;
+
+  }
+
+  .p5c:hover{
+    position: absolute;
+    top:72vh;
     left:27vh;
     background-color: #f7931e;
     height:63px;
