@@ -245,6 +245,40 @@ color: blue;
 
 }
 
+.p4c:hover{
+  position: absolute;
+  top:60vh;
+  left:27vh;
+  background-color: blue;
+  height:63px;
+  width:1210px;
+}
+.p4:hover{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: white;
+
+}
+
+.p4c{
+  position: absolute;
+  top:60vh;
+  left:27vh;
+  background-color: white;
+  height:63px;
+  width:1210px;
+}
+.p4{
+  font-family: input-mono, monospace;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+color: blue;
+
+}
+
 .p3c:hover{
   position: absolute;
   top:48vh;
@@ -261,8 +295,6 @@ font-size: 50px;
 color: white;
 
 }
-
-
 
 
 
